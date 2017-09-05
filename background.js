@@ -21,13 +21,13 @@ function locateToWikimapia(tab) {
     if (zoom) {
         targetURL += "&z=" + zoom;
     }
-    var creating = browser.tabs.create({
+    var creating = chrome.tabs.create({
         url: targetURL,
         active: true
     });
 };
 
 // Listen for any changes to the URL of any tab.
-browser.tabs.onUpdated.addListener(checkForValidUrl);
+chrome.tabs.onUpdated.addListener(checkForValidUrl);
 
-browser.pageAction.onClicked.addListener(locateToWikimapia);
+chrome.pageAction.onClicked.addListener(locateToWikimapia);
