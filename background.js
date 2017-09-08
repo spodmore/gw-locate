@@ -1,5 +1,5 @@
 const GM_REGEXP_STRING =
-    "google.(com.(?!ru)[a-z]{2}|co.[a-z]{2}|com|(?!ru)[a-z]{2})\/maps\/.*\\@(-?\\d+\\.\\d+),(-?\\d+\\.\\d+),?(\\d+z)?.*";
+    "google.(com.(?!ru)[a-z]{2}|co.[a-z]{2}|com|(?!ru)[a-z]{2})\/maps\/.*\\@(-?\\d+\\.\\d+),(-?\\d+\\.\\d+),?(\\d+\\.?\\d+?z)?.*";
 const GM_REGEXP = new RegExp(GM_REGEXP_STRING);
 const WIKIMAPIA_BASE_URL_HASH = "http://wikimapia.org/#";
 
