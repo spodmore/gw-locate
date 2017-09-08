@@ -4,7 +4,7 @@
         "description": "Name of the extension"
     },
     "extensionDescription": {
-        "message": "Address bar button to open the current Google Maps location on Wikimapia in a new tab.",
+        "message": "Button to open the current Google Maps location on Wikimapia in a new tab.",
         "description": "Description of the extension"
     },
     "defaultTitle": {
