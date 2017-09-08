@@ -1,10 +1,11 @@
 {
 
   "manifest_version": 2,
-  "name": "GW Locate",
-  "version": "1.0",
+  "name": "__MSG_extensionName__",
+  "version": "1.1",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
 
-  "description": "Address bar button to open the current Google Maps location on Wikimapia in a new tab.",
   "icons": {
     "48": "icons/direction-path-48.png"
   },
@@ -16,7 +17,7 @@
 
   "page_action": {
     "default_icon": "button/direction-path-19.png",
-    "default_title": "Locate in Wikimapia",
+    "default_title": "__MSG_defaultTitle__",
     "browser_style": true
   },
 

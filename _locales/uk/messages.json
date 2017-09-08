@@ -1,0 +1,14 @@
+{
+    "extensionName": {
+        "message": "GW Locate",
+        "description": "Назва розширення"
+    },
+    "extensionDescription": {
+        "message": "Кнопка, що відкриває поточну локацію Google Maps у Wikimapia в новій вкладці.",
+        "description": "Опис розширення"
+    },
+    "defaultTitle": {
+        "message": "Відкрити у Wikimapia",
+        "description": "Підказка до кнопки"
+    }
+}
