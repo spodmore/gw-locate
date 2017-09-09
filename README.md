@@ -9,9 +9,9 @@ It doesn't work on websites other than Google Maps (eg. google.com/maps).
 Available locales: English (en), Ukrainian (uk).
 
 Tested in
-* macOS Sierra: Firefox 55, Google Chrome 60
-* Windows 10: Firefox 55, Google Chrome 60
-* Ubuntu 14.04: Firefox 55
+* **macOS** Sierra: Firefox 55, Google Chrome 60
+* **Windows** 10: Firefox 55, Google Chrome 60
+* **Ubuntu** 14.04: Firefox 55
 
 ## How it works
 
@@ -30,7 +30,7 @@ GW Locate icon is thankfully taken from the Icon Beast Light set: http://www.ico
 # Developer Installation Notes
 You can add the extension to your browser manually. Download the source code and unzip it to the location you prefer.
 
-**Firefox** supports the Debugging mode which allows to load the extension temporarily. To do so,
+**Firefox** supports the Debugging mode which allows to load extensions temporarily. To do so,
 * in the address bar type about:debugging,
 * click the 'Load temporary add-on' button and
 * select the manifest.json file.
