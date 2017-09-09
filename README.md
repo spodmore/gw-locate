@@ -29,11 +29,13 @@ GW Locate icon is thankfully taken from the Icon Beast Light set: http://www.ico
 
 # Developer Installation Notes
 You can add the extension to your browser manually. Download the source code and unzip it to the location you prefer.
+
 **Firefox** supports the Debugging mode which allows to load the extension temporarily. To do so,
 * in the address bar type about:debugging,
 * click the 'Load temporary add-on' button and
 * select the manifest.json file.
 This will keep the extension until you close the browser window. You can remove the extension, or disable it in the native built-in Addon Manager, anytime before.
+
 In **Google Chrome**,
 * go to chrome://extensions,
 * check the 'Developer mode' box,
