@@ -12,7 +12,7 @@
 const GM_REGEXP_STRING =
     "google.(com.(?!ru)[a-z]{2}|co.[a-z]{2}|com|(?!ru)[a-z]{2})\/maps\/.*\\@(-?\\d+\\.\\d+),(-?\\d+\\.\\d+),?(\\d+\\.?\\d+?z)?.*";
 
-// Create the RexExp object
+// Create the RegExp object
 const GM_REGEXP = new RegExp(GM_REGEXP_STRING);
 
 // Wikimapia base URL
