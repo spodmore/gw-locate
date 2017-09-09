@@ -28,7 +28,7 @@ Zoom might be fractional in Google Maps, it will be rounded on the Wikimapia web
 GW Locate icon is thankfully taken from the Icon Beast Light set: http://www.iconbeast.com/free/.
 
 # Developer Installation Notes
-You can add the extension to your browser manually. Download the source code and unzip it to the location you prefer.
+You can add the extension to your browser manually. Download the source code and unzip it to a location you prefer.
 
 **Firefox** supports the Debugging mode which allows to load extensions temporarily. To do so,
 * in the address bar type about:debugging,
@@ -41,4 +41,5 @@ In **Google Chrome**,
 * check the 'Developer mode' box,
 * click the 'Load unpacked extension...' button and
 * select the folder where you have unpacked the extension.
+
 It will persist in Google Chrome until you decide to disable or remove it.
