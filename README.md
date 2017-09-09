@@ -34,6 +34,7 @@ You can add the extension to your browser manually. Download the source code and
 * in the address bar type about:debugging,
 * click the 'Load temporary add-on' button and
 * select the manifest.json file.
+
 This will keep the extension until you close the browser window. You can remove the extension, or disable it in the native built-in Addon Manager, anytime before.
 
 In **Google Chrome**,
@@ -42,4 +43,4 @@ In **Google Chrome**,
 * click the 'Load unpacked extension...' button and
 * select the folder where you have unpacked the extension.
 
-It will persist in Google Chrome until you decide to disable or remove it.
+It will persist in Google Chrome until you disable or remove it.
