@@ -1,6 +1,6 @@
 # GW Locate
 
-**This extension adds a button to the address bar in Firefox (or toolbar in Google Chrome) which allows to view current Google Maps location in the new tab on Wikimapia at the same zoom if available.
+**This extension adds a button to the address bar in Firefox (or toolbar in Google Chrome) which allows to view current Google Maps location in the new tab on Wikimapia at the same zoom if available~
 
 It works on all supported Google domains except for '.ru'. See the Google domain reference: https://www.google.com/supported_domains.
 
