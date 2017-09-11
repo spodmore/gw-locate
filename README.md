@@ -11,7 +11,7 @@ Available locales: English (en), Ukrainian (uk).
 Tested in
 * **macOS** Sierra: Firefox 55, Google Chrome 60
 * **Windows** 10: Firefox 55, Google Chrome 60
-* **Ubuntu** 14.04: Firefox 55
+* **Ubuntu** 16.04: Firefox 55, Google Chrome 59
 
 ## How it works
 
